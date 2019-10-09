@@ -13,7 +13,7 @@ The Kontakt script was adapted from Olivier Pasquet's original microtuning scrip
 A tutorial video for this project can be found here: https://youtu.be/bQRwxHz54rs
 
 
-##KSP Specifics
+## KSP Specifics
 
 - To use this script, paste it onto the first script that isn't a GUI related script. 
 
