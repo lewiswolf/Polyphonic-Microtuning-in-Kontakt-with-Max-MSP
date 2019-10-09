@@ -1,0 +1,21 @@
+on init
+
+	declare $lewtune
+	declare polyphonic $DryTone_ID
+
+end on 
+
+on note
+
+	$DryTone_ID := $EVENT_ID
+	change_tune ($DryTone_ID, $lewtune, 0)
+	
+end on
+
+on controller
+
+	if ($CC_NUM = 119)
+	$lewtune := %CC[119]*1000+%CC[118]*10+%CC[117]-50000
+	end if
+
+end on
