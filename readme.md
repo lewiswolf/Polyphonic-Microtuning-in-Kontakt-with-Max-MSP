@@ -1,5 +1,5 @@
-#Kontakt Microtuning
-##by Lewis Wolf
+# Kontakt Microtuning
+## by Lewis Wolf
 
 Written in Kontakt v5.5 & Max MSP v.7+
 September 2018
