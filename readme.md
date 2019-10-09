@@ -1,4 +1,4 @@
-# Kontakt Microtuning
+# Polyphonic Microtuning in Kontakt with Max MSP
 ## by Lewis Wolf
 
 Written in Kontakt v5.5 & Max MSP v.7+
