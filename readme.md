@@ -2,7 +2,7 @@
 
 ## by Lewis Wolf
 
-Written in Kontakt v5.5 & Max MSP v.7+++  
+Written in Kontakt v5.5 & Max MSP v.7+  
 
 The files contained in this repository demonstrate how to dynamically microtune Kontakt using Max MSP. Kontakt is unique in the way that it handles pitch bend information, allowing for each semitone to be divided into 100000 equal parts. The method shown here takes full advantage of this added layer of precision, and allows for real time flexibility without the need to alter the Kontakt script any further.
 
